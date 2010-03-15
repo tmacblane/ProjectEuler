@@ -1,8 +1,0 @@
-C:\CBLPathDev\ProjectEuler\csharp\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
-C:\CBLPathDev\ProjectEuler\csharp\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
-C:\CBLPathDev\ProjectEuler\csharp\ProjectEuler\ProjectEuler\obj\Debug\ResolveAssemblyReference.cache
-C:\CBLPathDev\ProjectEuler\csharp\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.Properties.Resources.resources
-C:\CBLPathDev\ProjectEuler\csharp\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csproj.GenerateResource.Cache
-C:\CBLPathDev\ProjectEuler\csharp\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
-C:\CBLPathDev\ProjectEuler\csharp\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
-C:\CBLPathDev\ProjectEuler\csharp\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.Form1.resources
