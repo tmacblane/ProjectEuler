@@ -18,16 +18,6 @@ namespace ProjectEuler.Problems
                 {
                     a = a + i;
                 }
-
-                else if (i%3 == 0)
-                {
-                    a = a + i;
-                }
-
-                else if (i % 5 == 0)
-                {
-                    a = a + i;
-                }
             }
 
             MessageBox.Show("The total is..." + a);
